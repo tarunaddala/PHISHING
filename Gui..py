@@ -67,3 +67,4 @@ if __name__ == "__main__":
     Spam_detector.show()
     sys.exit(app.exec_())
 
+#done
